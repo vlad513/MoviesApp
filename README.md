@@ -13,16 +13,17 @@
 
 ## Используемые библиотеки/технологии
 
- 1.Jetpack Compose (UI)
- 2.Hilt (DI)
- 3.ViewModel
- 4.Repository
- 5.Retrofit
- 6.Coil (отображение изображений коктейлей)
- 7.Gson 
- 8.NavigationCompose
- 9.LiveData
- 10.Coroutines
+- Jetpack Compose (UI)
+- Hilt (DI)
+- ViewModel
+- Repository
+- Retrofit
+- Coil (отображение изображений коктейлей)
+- Gson 
+- NavigationCompose
+- LiveData
+- Coroutines
+
 
 ## Реализованные экраны
 
