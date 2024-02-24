@@ -7,21 +7,25 @@
    <img src="https://img.shields.io/badge/1.0-gren" alt="code version">
 </p>
 
-## About
+## О проекте
 
-About Text Here
+Приложение для отображения списка фильмов и деталей к ним . Можно ознакомиться с обложкой , жанрами или же прочитать рецензию .
 
-## Documentation
+## Используемые библиотеки/технологии
 
-Documentation Here
+ 1.Jetpack Compose (UI)
+ 2.Hilt (DI)
+ 3.ViewModel
+ 4.Repository
+ 5.Retrofit
+ 6.Coil (отображение изображений коктейлей)
+ 7.Gson 
+ 8.NavigationCompose
+ 9.LiveData
+ 10.Coroutines
 
-## Distribute
+## Реализованные экраны
 
-- [Service Name](Page Link)
-
-
-## Developers
-
-- [Delevoper Name](GitHub Profile Link)
-
-## License
+- SplashScreen
+- MainScreen
+- DetailsScreen
